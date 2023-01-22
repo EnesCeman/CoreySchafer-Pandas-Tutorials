@@ -32,4 +32,4 @@ Through these tutorials I practiced many concepts using pandas library, highligh
 * updating values inside the table
 * sorting and grouping the data
 * using Datetime to manipulate Time Series and analyze the data through the time
-* connecting different types of documents to pandas dataframes etc.
+* importing different types of documents into pandas dataframes etc.
